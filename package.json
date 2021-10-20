@@ -1,0 +1,24 @@
+{
+  "name": "PlaztiMaster-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbzaso/PlaztiMaster-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbzaso/PlaztiMaster-API/issues"
+  },
+  "homepage": "https://github.com/kbzaso/PlaztiMaster-API#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
