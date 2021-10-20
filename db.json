@@ -1,0 +1,79 @@
+{
+  "preguntas": [
+    {
+      "id": 0,
+      "class": "rata",
+      "pregunta": "Si una rata tiene una ametralladora, ¿qué puede hacer?",
+      "alternativas": ["Cuek", "Ratatatatatatata", "Wof", "pipipipi"]
+    },
+    {
+      "id": 1,
+      "class": "mujeres",
+      "pregunta": "¿Qué tienen las mujeres en medio de las piernas? Las rodillas?",
+      "alternativas": [
+        "Las rodillas",
+        "Ropa interior",
+        "Algo prohibido",
+        "Algo peligroso"
+      ]
+    },
+    {
+      "id": 2,
+      "class": "perro",
+      "pregunta": "¿Cómo se denomina a un perro con fiebre?",
+      "alternativas": ["Snoop Dog", "Doggie", "Hot dog", "Catdog"]
+    },
+    {
+      "id": 3,
+      "class": "instrumento",
+      "pregunta": "¿Cuál es el instrumento que se mete y deja líquido dentro?",
+      "alternativas": ["Jeringa", "Corneta", "Flauta", "Parche"]
+    },
+    {
+      "id": 4,
+      "class": "juguete",
+      "pregunta": "¿Qué juguete es el más egoísta?",
+      "alternativas": [
+        "Barco de papel",
+        "Bicicleta",
+        "Autito chocador",
+        "Yo-yo"
+      ]
+    },
+    {
+      "id": 5,
+      "class": "sombra",
+      "pregunta": "Siempre va por la tierra sin ensuciarse. ¿Qué es?",
+      "alternativas": ["La sombra", "El agua", "El aire", "El fuego"]
+    },
+    {
+      "id": 6,
+      "class": "cocos",
+      "pregunta": "Bolas grandes, colgantes, gordas y peludas que son voluminosas y hermosas.",
+      "alternativas": ["Cocos", "Duraznos", "Naranjas", "Peras"]
+    },
+    {
+      "id": 7,
+      "class": "reloj",
+      "pregunta": "El abuelo tiene una cosa que cuelga, sin pelo y que sale por delante.",
+      "alternativas": [
+        "Un reloj de bolsillo",
+        "Un duraznos",
+        "Un gato",
+        "Un perro"
+      ]
+    },
+    {
+      "id": 8,
+      "class": "silencio",
+      "pregunta": "Cuando lo nombras ya no estará porque desaparece.",
+      "alternativas": ["El silencio", "Mi tia", "El gato", "Snoop Dog"]
+    },
+    {
+      "id": 9,
+      "class": "playa",
+      "pregunta": "¿Qué se encuentra entre playa y mar?",
+      "alternativas": ["Pulgas de mar", "La letra Y", "Basura", "Espuma"]
+    }
+  ]
+}
